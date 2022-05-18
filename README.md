@@ -6,13 +6,9 @@
 
 📗 O <b>Flexblog</b> é um site fictício criado a partir das mais modernas propriedades de <b>CSS</b> . 
 
-
-
 # Objetivo
 
 🚩 O intuito do projeto é treinar/aprimorar os conhecimentos com propriedades de <b>Flexbox</b>
-
----
 
 # Site
 
